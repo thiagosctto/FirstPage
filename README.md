@@ -1,2 +1,2 @@
 # FirstPage
-First Exercice with Rockeatseat
+First Exercise with Rockeatseat
